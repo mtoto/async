@@ -7,3 +7,4 @@
 ^appveyor.yml$
 ^src/async.so$
 ^src/.*\.o$
+^.env$
