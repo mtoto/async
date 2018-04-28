@@ -5,3 +5,5 @@
 ^NEWS.md$
 ^.travis.yml$
 ^appveyor.yml$
+^src/async.so$
+^src/.*\.o$
